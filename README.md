@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 # Hey, I'm Smooshier 👋
 
 🎓 Information Systems @ UIT — VNUHCM
+
 🤖 Exploring **Machine Learning & AI Research**
+
 🔬 Interested in **ML, Optimization & Data Science**
 
 > *Learning, building, and turning ideas into experiments.*
